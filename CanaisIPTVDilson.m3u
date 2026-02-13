@@ -1,0 +1,596 @@
+#EXTM3U
+#EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+
+#EXTINF:-1 group-title="Geral" tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png",SBT | Rio Preto
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="RedeRecord.br" tvg-name="TV Record" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png",TV Record | Nacional
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="TVRecord.br" tvg-name="Tv Record" tvg-logo="https://logos.imperioapps.top/RECORD.png", TV RECORD
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="RedeTVES.br@SD" tvg-name="Rede TV" tvg-logo="https://logos.imperioapps.top/REDE_TV_4K.png", Rede TV! | ES
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SertaoTV.br@SD"tvg-logo="https://reporterceara.com.br/wp-content/uploads/2017/07/Serta%CC%83o-TV-01-2560x1440-170621.png", Sertão TV (720p)
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://logos.imperioapps.top/FRANCA.png",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/3840px-Times_Brasil_CNBC_logo.svg.png",Times Brasil (1080p)
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara2.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png",TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="TVCancaoNova.br@SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png",TV Cancao Nova (720p)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMAX.br@SD",TV MAX (720p)
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversal.br@SD",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educação (720p)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png", Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="noticia",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+
+#EXTINF:-1 group-title="Geral" tvg-id="TvBrasil.Br" tvg-name="TV Brasil" tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png", TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="TVMarajoara.br" tvg-name="TV Marajoara" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/34/Logotipo_da_Super_Marajoara.png",Tv Marajoara | Rede Brasil
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+
+#EXTINF:0 group-title="Religioso" tvg-id="REDE.BOAS.NOVAS.-.NET.MANAUS.br" tvg-name="Boas Novas Manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Rede_Boas_Novas.png/200px-Rede_Boas_Novas.png" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Boas Novas Manaus
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/67/17/676717e3-be25-3f1c-52fe-b040da127557/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",Rede Gospel (1080p)
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://logos.imperioapps.top/APARECIDA.png",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-id="GospelMovieTV.br" tvg-name="Gospel Movies Television" tvg-logo="https://image.roku.com/developer_channels/prod/e53053e1dc4f23bfaba28baec96ccd670db794f071f83ffe958fe769791bbd57.png",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:0 group-title="Religioso" tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo" tvg-logo="https://www.novotempo.com/wp-content/uploads/2022/07/cropped-logo.png", TV Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN_4K.png", Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png", Canal Cultura do Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 group-title="Legislativo" tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://logos.imperioapps.top/TV_CAMARA.png",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Crime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 group-title="Filmes" tvg-id="logotv.br" tvg-name="Logo TV" tvg-logo="https://images.seeklogo.com/logo-png/25/1/tv-logo-png_seeklogo-256434.png",Logo TV
+http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-id="MyTimeMovieNetwork.br" tvg-name="My Time Movie" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",My Time Movie Network | Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Filmes" tvg-id="PlutoTVCineDrama.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Filmes" tvg-id="PlutoTVCineFamilia.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Cine Família
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Infantil" tvg-id="PlutoTvClassicNick.br" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png",Pluto TV Classic Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+
+#EXTINF:-1 group-title="Filmes" tvg-id="PlutoTvFilmes.Br" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png",Pluto TV Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Criminal" tvg-id="PlutoTVInvestigacao.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Investigação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Musica" tvg-id="MTV.br@SD" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png",Pluto TV MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Planeta" tvg-id="PlutoTVNatureza.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Infantil" tvg-id="PlutoTVNickJr.br" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 group-title="Infantil" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Classicos" tvg-id="PlutoTVRetro.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Retrô (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Geral" tvg-id="PlutoTVVidaReal.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Vida Real (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-name="Chaves S01E01" tvg-logo="http://timg.bdta.pro/images/37df6e8918c3a9d6eac1ce17f42b1b03.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E01
+http://181.214.221.73:80/series/000014/000014/3829464.mp4
+#EXTINF:-1 tvg-name="Chaves S01E02" tvg-logo="http://timg.bdta.pro/images/fa23b12829abe328f4a7788524309a9b.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E02
+http://181.214.221.73:80/series/000014/000014/3829465.mp4
+#EXTINF:-1 tvg-name="Chaves S01E03" tvg-logo="http://timg.bdta.pro/images/34e5d8c9e11d31d2c74b07fbdb88bce1.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E03
+http://181.214.221.73:80/series/000014/000014/3829466.mp4
+#EXTINF:-1 tvg-name="Chaves S01E04" tvg-logo="http://timg.bdta.pro/images/ec04060013c51b7f961520abcc5e80d9.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E04
+http://181.214.221.73:80/series/000014/000014/3829467.mp4
+#EXTINF:-1 tvg-name="Chaves S01E05" tvg-logo="http://timg.bdta.pro/images/c4da7c9fb754a95028cee827e785a769.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E05
+http://181.214.221.73:80/series/000014/000014/3829468.mp4
+#EXTINF:-1 tvg-name="Chaves S01E06" tvg-logo="http://timg.bdta.pro/images/5aa3ab9257569e110267cf5411ba1733.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E06
+http://181.214.221.73:80/series/000014/000014/3829469.mp4
+#EXTINF:-1 tvg-name="Chaves S01E07" tvg-logo="http://timg.bdta.pro/images/c203e013f8140e9ec4d22d3c8b97af8d.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E07
+http://181.214.221.73:80/series/000014/000014/3829470.mp4
+#EXTINF:-1 tvg-name="Chaves S01E08" tvg-logo="http://timg.bdta.pro/images/9c46386608c6c1af5587dd616ef1e359.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E08
+http://181.214.221.73:80/series/000014/000014/3829471.mp4
+#EXTINF:-1 tvg-name="Chaves S01E09" tvg-logo="http://timg.bdta.pro/images/76e5085291adf719c3c166bd4d0c8724.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E09
+http://181.214.221.73:80/series/000014/000014/3829472.mp4
+#EXTINF:-1 tvg-name="Chaves S01E10" tvg-logo="http://timg.bdta.pro/images/093dea52beccd143f98e2f4997e75fdc.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E10
+http://181.214.221.73:80/series/000014/000014/3829473.mp4
+#EXTINF:-1 tvg-name="Chaves S01E11" tvg-logo="http://timg.bdta.pro/images/7538d2ecf5b44e42d622fd00374f064d.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E11
+http://181.214.221.73:80/series/000014/000014/3829474.mp4
+#EXTINF:-1 tvg-name="Chaves S01E12" tvg-logo="http://timg.bdta.pro/images/6733f8bffb6426da099aad70d3bbac63.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E12
+http://181.214.221.73:80/series/000014/000014/3829475.mp4
+#EXTINF:-1 tvg-name="Chaves S01E13" tvg-logo="http://timg.bdta.pro/images/95d63a3674af9838480d65702743e9e4.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E13
+http://181.214.221.73:80/series/000014/000014/3829476.mp4
+#EXTINF:-1 tvg-name="Chaves S01E14" tvg-logo="http://timg.bdta.pro/images/a8142dbeace45fbd7230fdb73b573a0e.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E14
+http://181.214.221.73:80/series/000014/000014/3829477.mp4
+#EXTINF:-1 tvg-name="Chaves S01E15" tvg-logo="http://timg.bdta.pro/images/7498fd53e11e94729507ca6e28cabdef.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E15
+http://181.214.221.73:80/series/000014/000014/3829478.mp4
+#EXTINF:-1 tvg-name="Chaves S01E16" tvg-logo="http://timg.bdta.pro/images/c8b513b1451749006cbeab2c350f9e83.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E16
+http://181.214.221.73:80/series/000014/000014/3829479.mp4
+#EXTINF:-1 tvg-name="Chaves S01E17" tvg-logo="http://timg.bdta.pro/images/c1084bc3fa8eb57360d56d7245d8b84d.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E17
+http://181.214.221.73:80/series/000014/000014/3829480.mp4
+#EXTINF:-1 tvg-name="Chaves S01E18" tvg-logo="http://timg.bdta.pro/images/82869f2eaaa2214968aaa77d6aaa49f4.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E18
+http://181.214.221.73:80/series/000014/000014/3829481.mp4
+#EXTINF:-1 tvg-name="Chaves S01E19" tvg-logo="http://timg.bdta.pro/images/d75cb88601084d02c456e06313a86ba5.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E19
+http://181.214.221.73:80/series/000014/000014/3829482.mp4
+#EXTINF:-1 tvg-name="Chaves S01E20" tvg-logo="http://timg.bdta.pro/images/9428c17b06f13f67b5ffdfdd01350c8a.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E20
+http://181.214.221.73:80/series/000014/000014/3829483.mp4
+#EXTINF:-1 tvg-name="Chaves S01E21" tvg-logo="http://timg.bdta.pro/images/4597d93a3d226efd856cdee1f6f733fa.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E21
+http://181.214.221.73:80/series/000014/000014/3829484.mp4
+#EXTINF:-1 tvg-name="Chaves S01E22" tvg-logo="http://timg.bdta.pro/images/961da6488749baf010ab282b798cb17a.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E22
+http://181.214.221.73:80/series/000014/000014/3829485.mp4
+#EXTINF:-1 tvg-name="Chaves S02E01" tvg-logo="http://timg.bdta.pro/images/27dc3d5253ac3bcaf2a50f6367269913.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E01
+http://181.214.221.73:80/series/000014/000014/3829486.mp4
+#EXTINF:-1 tvg-name="Chaves S02E02" tvg-logo="http://timg.bdta.pro/images/caacc8c1d621ed77791134b228611955.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E02
+http://181.214.221.73:80/series/000014/000014/3829487.mp4
+#EXTINF:-1 tvg-name="Chaves S02E03" tvg-logo="http://timg.bdta.pro/images/95bd30451c465b08b81971a476bf6ff0.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E03
+http://181.214.221.73:80/series/000014/000014/3829488.mp4
+#EXTINF:-1 tvg-name="Chaves S02E04" tvg-logo="http://timg.bdta.pro/images/1dc32a7d8c867ed4bb92751ca93216b6.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E04
+http://181.214.221.73:80/series/000014/000014/3829489.mp4
+#EXTINF:-1 tvg-name="Chaves S02E05" tvg-logo="http://timg.bdta.pro/images/f931d283ca13819f4188863400abdd33.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E05
+http://181.214.221.73:80/series/000014/000014/3829490.mp4
+#EXTINF:-1 tvg-name="Chaves S02E06" tvg-logo="http://timg.bdta.pro/images/bd8e57c6e4f173a902060f1a7ec5eaee.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E06
+http://181.214.221.73:80/series/000014/000014/3829491.mp4
+#EXTINF:-1 tvg-name="Chaves S02E07" tvg-logo="http://timg.bdta.pro/images/bd8e57c6e4f173a902060f1a7ec5eaee.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E07
+http://181.214.221.73:80/series/000014/000014/3829492.mp4
+#EXTINF:-1 tvg-name="Chaves S02E08" tvg-logo="http://timg.bdta.pro/images/bd8e57c6e4f173a902060f1a7ec5eaee.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E08
+http://181.214.221.73:80/series/000014/000014/3829493.mp4
+#EXTINF:-1 tvg-name="Chaves S02E09" tvg-logo="http://timg.bdta.pro/images/bd8e57c6e4f173a902060f1a7ec5eaee.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E09
+http://181.214.221.73:80/series/000014/000014/3829494.mp4
+#EXTINF:-1 tvg-name="Chaves S02E10" tvg-logo="http://timg.bdta.pro/images/bd8e57c6e4f173a902060f1a7ec5eaee.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E10
+http://181.214.221.73:80/series/000014/000014/3829495.mp4
+#EXTINF:-1 tvg-name="Chaves S02E11" tvg-logo="http://timg.bdta.pro/images/bd8e57c6e4f173a902060f1a7ec5eaee.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E11
+http://181.214.221.73:80/series/000014/000014/3829496.mp4
+#EXTINF:-1 tvg-name="Chaves S02E12" tvg-logo="http://timg.bdta.pro/images/292bb4079f29f63791bea7142fe331eb.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E12
+http://181.214.221.73:80/series/000014/000014/3829497.mp4
+#EXTINF:-1 tvg-name="Chaves S02E13" tvg-logo="http://timg.bdta.pro/images/77d9c555f156080c467975f3682a2c2a.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E13
+http://181.214.221.73:80/series/000014/000014/3829498.mp4
+#EXTINF:-1 tvg-name="Chaves S02E14" tvg-logo="http://timg.bdta.pro/images/77d9c555f156080c467975f3682a2c2a.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E14
+http://181.214.221.73:80/series/000014/000014/3829499.mp4
+#EXTINF:-1 tvg-name="Chaves S02E15" tvg-logo="http://timg.bdta.pro/images/77d9c555f156080c467975f3682a2c2a.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E15
+http://181.214.221.73:80/series/000014/000014/3829500.mp4
+#EXTINF:-1 tvg-name="Chaves S02E16" tvg-logo="http://timg.bdta.pro/images/77d9c555f156080c467975f3682a2c2a.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E16
+http://181.214.221.73:80/series/000014/000014/3829501.mp4
+#EXTINF:-1 tvg-name="Chaves S02E17" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E17
+http://181.214.221.73:80/series/000014/000014/3829502.mp4
+#EXTINF:-1 tvg-name="Chaves S02E18" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E18
+http://181.214.221.73:80/series/000014/000014/3829503.mp4
+#EXTINF:-1 tvg-name="Chaves S02E19" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E19
+http://181.214.221.73:80/series/000014/000014/3829504.mp4
+#EXTINF:-1 tvg-name="Chaves S02E20" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E20
+http://181.214.221.73:80/series/000014/000014/3829505.mp4
+#EXTINF:-1 tvg-name="Chaves S02E21" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E21
+http://181.214.221.73:80/series/000014/000014/3829506.mp4
+#EXTINF:-1 tvg-name="Chaves S02E22" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E22
+http://181.214.221.73:80/series/000014/000014/3829507.mp4
+#EXTINF:-1 tvg-name="Chaves S02E23" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E23
+http://181.214.221.73:80/series/000014/000014/3829508.mp4
+#EXTINF:-1 tvg-name="Chaves S02E24" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E24
+http://181.214.221.73:80/series/000014/000014/3829509.mp4
+#EXTINF:-1 tvg-name="Chaves S02E25" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E25
+http://181.214.221.73:80/series/000014/000014/3829510.mp4
+#EXTINF:-1 tvg-name="Chaves S02E26" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E26
+http://181.214.221.73:80/series/000014/000014/3829511.mp4
+#EXTINF:-1 tvg-name="Chaves S02E27" tvg-logo="http://timg.bdta.pro/images/133b29eb5234b16c8a6c41b8ea5dbe86.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E27
+http://181.214.221.73:80/series/000014/000014/3829512.mp4
+#EXTINF:-1 tvg-name="Chaves S02E28" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E28
+http://181.214.221.73:80/series/000014/000014/3829513.mp4
+#EXTINF:-1 tvg-name="Chaves S02E29" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E29
+http://181.214.221.73:80/series/000014/000014/3829514.mp4
+#EXTINF:-1 tvg-name="Chaves S02E30" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E30
+http://181.214.221.73:80/series/000014/000014/3829515.mp4
+#EXTINF:-1 tvg-name="Chaves S02E31" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S02E31
+http://181.214.221.73:80/series/000014/000014/3829516.mp4
+#EXTINF:-1 tvg-name="Chaves S03E01" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E01
+http://181.214.221.73:80/series/000014/000014/3829517.mp4
+#EXTINF:-1 tvg-name="Chaves S03E02" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E02
+http://181.214.221.73:80/series/000014/000014/3829518.mp4
+#EXTINF:-1 tvg-name="Chaves S03E03" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E03
+http://181.214.221.73:80/series/000014/000014/3829519.mp4
+#EXTINF:-1 tvg-name="Chaves S03E04" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E04
+http://181.214.221.73:80/series/000014/000014/3829520.mp4
+#EXTINF:-1 tvg-name="Chaves S03E05" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E05
+http://181.214.221.73:80/series/000014/000014/3829521.mp4
+#EXTINF:-1 tvg-name="Chaves S03E06" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E06
+http://181.214.221.73:80/series/000014/000014/3829522.mp4
+#EXTINF:-1 tvg-name="Chaves S03E07" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E07
+http://181.214.221.73:80/series/000014/000014/3829523.mp4
+#EXTINF:-1 tvg-name="Chaves S03E08" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E08
+http://181.214.221.73:80/series/000014/000014/3829524.mp4
+#EXTINF:-1 tvg-name="Chaves S03E09" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E09
+http://181.214.221.73:80/series/000014/000014/3829525.mp4
+#EXTINF:-1 tvg-name="Chaves S03E10" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E10
+http://181.214.221.73:80/series/000014/000014/3829526.mp4
+#EXTINF:-1 tvg-name="Chaves S03E11" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E11
+http://181.214.221.73:80/series/000014/000014/3829527.mp4
+#EXTINF:-1 tvg-name="Chaves S03E12" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E12
+http://181.214.221.73:80/series/000014/000014/3829528.mp4
+#EXTINF:-1 tvg-name="Chaves S03E13" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E13
+http://181.214.221.73:80/series/000014/000014/3829529.mp4
+#EXTINF:-1 tvg-name="Chaves S03E14" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E14
+http://181.214.221.73:80/series/000014/000014/3829530.mp4
+#EXTINF:-1 tvg-name="Chaves S03E15" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E15
+http://181.214.221.73:80/series/000014/000014/3829531.mp4
+#EXTINF:-1 tvg-name="Chaves S03E16" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E16
+http://181.214.221.73:80/series/000014/000014/3829532.mp4
+#EXTINF:-1 tvg-name="Chaves S03E17" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E17
+http://181.214.221.73:80/series/000014/000014/3829533.mp4
+#EXTINF:-1 tvg-name="Chaves S03E18" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E18
+http://181.214.221.73:80/series/000014/000014/3829534.mp4
+#EXTINF:-1 tvg-name="Chaves S03E19" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E19
+http://181.214.221.73:80/series/000014/000014/3829535.mp4
+#EXTINF:-1 tvg-name="Chaves S03E20" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E20
+http://181.214.221.73:80/series/000014/000014/3829536.mp4
+#EXTINF:-1 tvg-name="Chaves S03E21" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E21
+http://181.214.221.73:80/series/000014/000014/3829537.mp4
+#EXTINF:-1 tvg-name="Chaves S03E22" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E22
+http://181.214.221.73:80/series/000014/000014/3829538.mp4
+#EXTINF:-1 tvg-name="Chaves S03E23" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E23
+http://181.214.221.73:80/series/000014/000014/3829539.mp4
+#EXTINF:-1 tvg-name="Chaves S03E24" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E24
+http://181.214.221.73:80/series/000014/000014/3829540.mp4
+#EXTINF:-1 tvg-name="Chaves S03E25" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E25
+http://181.214.221.73:80/series/000014/000014/3829541.mp4
+#EXTINF:-1 tvg-name="Chaves S03E26" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E26
+http://181.214.221.73:80/series/000014/000014/3829542.mp4
+#EXTINF:-1 tvg-name="Chaves S03E27" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E27
+http://181.214.221.73:80/series/000014/000014/3829543.mp4
+#EXTINF:-1 tvg-name="Chaves S03E28" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E28
+http://181.214.221.73:80/series/000014/000014/3829544.mp4
+#EXTINF:-1 tvg-name="Chaves S03E29" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E29
+http://181.214.221.73:80/series/000014/000014/3829545.mp4
+#EXTINF:-1 tvg-name="Chaves S03E30" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E30
+http://181.214.221.73:80/series/000014/000014/3829546.mp4
+#EXTINF:-1 tvg-name="Chaves S03E31" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S03E31
+http://181.214.221.73:80/series/000014/000014/3829547.mp4
+#EXTINF:-1 tvg-name="Chaves S04E01" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E01
+http://181.214.221.73:80/series/000014/000014/3829548.mp4
+#EXTINF:-1 tvg-name="Chaves S04E02" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E02
+http://181.214.221.73:80/series/000014/000014/3829549.mp4
+#EXTINF:-1 tvg-name="Chaves S04E03" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E03
+http://181.214.221.73:80/series/000014/000014/3829550.mp4
+#EXTINF:-1 tvg-name="Chaves S04E04" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E04
+http://181.214.221.73:80/series/000014/000014/3829551.mp4
+#EXTINF:-1 tvg-name="Chaves S04E05" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E05
+http://181.214.221.73:80/series/000014/000014/3829552.mp4
+#EXTINF:-1 tvg-name="Chaves S04E06" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E06
+http://181.214.221.73:80/series/000014/000014/3829553.mp4
+#EXTINF:-1 tvg-name="Chaves S04E07" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E07
+http://181.214.221.73:80/series/000014/000014/3829554.mp4
+#EXTINF:-1 tvg-name="Chaves S04E08" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E08
+http://181.214.221.73:80/series/000014/000014/3829555.mp4
+#EXTINF:-1 tvg-name="Chaves S04E09" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E09
+http://181.214.221.73:80/series/000014/000014/3829556.mp4
+#EXTINF:-1 tvg-name="Chaves S04E10" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E10
+http://181.214.221.73:80/series/000014/000014/3829557.mp4
+#EXTINF:-1 tvg-name="Chaves S04E11" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E11
+http://181.214.221.73:80/series/000014/000014/3829558.mp4
+#EXTINF:-1 tvg-name="Chaves S04E12" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E12
+http://181.214.221.73:80/series/000014/000014/3829559.mp4
+#EXTINF:-1 tvg-name="Chaves S04E13" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E13
+http://181.214.221.73:80/series/000014/000014/3829560.mp4
+#EXTINF:-1 tvg-name="Chaves S04E14" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E14
+http://181.214.221.73:80/series/000014/000014/3829561.mp4
+#EXTINF:-1 tvg-name="Chaves S04E15" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E15
+http://181.214.221.73:80/series/000014/000014/3829562.mp4
+#EXTINF:-1 tvg-name="Chaves S04E16" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E16
+http://181.214.221.73:80/series/000014/000014/3829563.mp4
+#EXTINF:-1 tvg-name="Chaves S04E17" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E17
+http://181.214.221.73:80/series/000014/000014/3829564.mp4
+#EXTINF:-1 tvg-name="Chaves S04E18" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E18
+http://181.214.221.73:80/series/000014/000014/3829565.mp4
+#EXTINF:-1 tvg-name="Chaves S04E19" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E19
+http://181.214.221.73:80/series/000014/000014/3829566.mp4
+#EXTINF:-1 tvg-name="Chaves S04E20" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E20
+http://181.214.221.73:80/series/000014/000014/3829567.mp4
+#EXTINF:-1 tvg-name="Chaves S04E21" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E21
+http://181.214.221.73:80/series/000014/000014/3829568.mp4
+#EXTINF:-1 tvg-name="Chaves S04E22" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E22
+http://181.214.221.73:80/series/000014/000014/3829569.mp4
+#EXTINF:-1 tvg-name="Chaves S04E23" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E23
+http://181.214.221.73:80/series/000014/000014/3829570.mp4
+#EXTINF:-1 tvg-name="Chaves S04E24" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E24
+http://181.214.221.73:80/series/000014/000014/3829571.mp4
+#EXTINF:-1 tvg-name="Chaves S04E25" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E25
+http://181.214.221.73:80/series/000014/000014/3829572.mp4
+#EXTINF:-1 tvg-name="Chaves S04E26" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E26
+http://181.214.221.73:80/series/000014/000014/3829573.mp4
+#EXTINF:-1 tvg-name="Chaves S04E27" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E27
+http://181.214.221.73:80/series/000014/000014/3829574.mp4
+#EXTINF:-1 tvg-name="Chaves S04E28" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E28
+http://181.214.221.73:80/series/000014/000014/3829575.mp4
+#EXTINF:-1 tvg-name="Chaves S04E29" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E29
+http://181.214.221.73:80/series/000014/000014/3829576.mp4
+#EXTINF:-1 tvg-name="Chaves S04E30" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S04E30
+http://181.214.221.73:80/series/000014/000014/3829577.mp4
+#EXTINF:-1 tvg-name="Chaves S05E01" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E01
+http://181.214.221.73:80/series/000014/000014/3829578.mp4
+#EXTINF:-1 tvg-name="Chaves S05E02" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E02
+http://181.214.221.73:80/series/000014/000014/3829579.mp4
+#EXTINF:-1 tvg-name="Chaves S05E03" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E03
+http://181.214.221.73:80/series/000014/000014/3829580.mp4
+#EXTINF:-1 tvg-name="Chaves S05E04" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E04
+http://181.214.221.73:80/series/000014/000014/3829581.mp4
+#EXTINF:-1 tvg-name="Chaves S05E05" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E05
+http://181.214.221.73:80/series/000014/000014/3829582.mp4
+#EXTINF:-1 tvg-name="Chaves S05E06" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E06
+http://181.214.221.73:80/series/000014/000014/3829583.mp4
+#EXTINF:-1 tvg-name="Chaves S05E07" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E07
+http://181.214.221.73:80/series/000014/000014/3829584.mp4
+#EXTINF:-1 tvg-name="Chaves S05E08" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E08
+http://181.214.221.73:80/series/000014/000014/3829585.mp4
+#EXTINF:-1 tvg-name="Chaves S05E09" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E09
+http://181.214.221.73:80/series/000014/000014/3829586.mp4
+#EXTINF:-1 tvg-name="Chaves S05E10" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E10
+http://181.214.221.73:80/series/000014/000014/3829587.mp4
+#EXTINF:-1 tvg-name="Chaves S05E11" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E11
+http://181.214.221.73:80/series/000014/000014/3829588.mp4
+#EXTINF:-1 tvg-name="Chaves S05E12" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E12
+http://181.214.221.73:80/series/000014/000014/3829589.mp4
+#EXTINF:-1 tvg-name="Chaves S05E13" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E13
+http://181.214.221.73:80/series/000014/000014/3829590.mp4
+#EXTINF:-1 tvg-name="Chaves S05E14" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E14
+http://181.214.221.73:80/series/000014/000014/3829591.mp4
+#EXTINF:-1 tvg-name="Chaves S05E15" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E15
+http://181.214.221.73:80/series/000014/000014/3829592.mp4
+#EXTINF:-1 tvg-name="Chaves S05E16" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E16
+http://181.214.221.73:80/series/000014/000014/3829593.mp4
+#EXTINF:-1 tvg-name="Chaves S05E17" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E17
+http://181.214.221.73:80/series/000014/000014/3829594.mp4
+#EXTINF:-1 tvg-name="Chaves S05E18" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E18
+http://181.214.221.73:80/series/000014/000014/3829595.mp4
+#EXTINF:-1 tvg-name="Chaves S05E19" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E19
+http://181.214.221.73:80/series/000014/000014/3829596.mp4
+#EXTINF:-1 tvg-name="Chaves S05E20" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E20
+http://181.214.221.73:80/series/000014/000014/3829597.mp4
+#EXTINF:-1 tvg-name="Chaves S05E21" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E21
+http://181.214.221.73:80/series/000014/000014/3829598.mp4
+#EXTINF:-1 tvg-name="Chaves S05E22" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E22
+http://181.214.221.73:80/series/000014/000014/3829599.mp4
+#EXTINF:-1 tvg-name="Chaves S05E23" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E23
+http://181.214.221.73:80/series/000014/000014/3829600.mp4
+#EXTINF:-1 tvg-name="Chaves S05E24" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E24
+http://181.214.221.73:80/series/000014/000014/3829601.mp4
+#EXTINF:-1 tvg-name="Chaves S05E25" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E25
+http://181.214.221.73:80/series/000014/000014/3829602.mp4
+#EXTINF:-1 tvg-name="Chaves S05E26" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E26
+http://181.214.221.73:80/series/000014/000014/3829603.mp4
+#EXTINF:-1 tvg-name="Chaves S05E27" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E27
+http://181.214.221.73:80/series/000014/000014/3829604.mp4
+#EXTINF:-1 tvg-name="Chaves S05E28" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E28
+http://181.214.221.73:80/series/000014/000014/3829605.mp4
+#EXTINF:-1 tvg-name="Chaves S05E29" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E29
+http://181.214.221.73:80/series/000014/000014/3829606.mp4
+#EXTINF:-1 tvg-name="Chaves S05E30" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S05E30
+http://181.214.221.73:80/series/000014/000014/3829607.mp4
+#EXTINF:-1 tvg-name="Chaves S06E01" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E01
+http://181.214.221.73:80/series/000014/000014/3829608.mp4
+#EXTINF:-1 tvg-name="Chaves S06E02" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E02
+http://181.214.221.73:80/series/000014/000014/3829609.mp4
+#EXTINF:-1 tvg-name="Chaves S06E03" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E03
+http://181.214.221.73:80/series/000014/000014/3829610.mp4
+#EXTINF:-1 tvg-name="Chaves S06E04" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E04
+http://181.214.221.73:80/series/000014/000014/3829611.mp4
+#EXTINF:-1 tvg-name="Chaves S06E05" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E05
+http://181.214.221.73:80/series/000014/000014/3829612.mp4
+#EXTINF:-1 tvg-name="Chaves S06E06" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E06
+http://181.214.221.73:80/series/000014/000014/3829613.mp4
+#EXTINF:-1 tvg-name="Chaves S06E07" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E07
+http://181.214.221.73:80/series/000014/000014/3829614.mp4
+#EXTINF:-1 tvg-name="Chaves S06E08" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E08
+http://181.214.221.73:80/series/000014/000014/3829615.mp4
+#EXTINF:-1 tvg-name="Chaves S06E09" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E09
+http://181.214.221.73:80/series/000014/000014/3829616.mp4
+#EXTINF:-1 tvg-name="Chaves S06E10" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E10
+http://181.214.221.73:80/series/000014/000014/3829617.mp4
+#EXTINF:-1 tvg-name="Chaves S06E11" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E11
+http://181.214.221.73:80/series/000014/000014/3829618.mp4
+#EXTINF:-1 tvg-name="Chaves S06E12" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E12
+http://181.214.221.73:80/series/000014/000014/3829619.mp4
+#EXTINF:-1 tvg-name="Chaves S06E13" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E13
+http://181.214.221.73:80/series/000014/000014/3829620.mp4
+#EXTINF:-1 tvg-name="Chaves S06E14" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E14
+http://181.214.221.73:80/series/000014/000014/3829621.mp4
+#EXTINF:-1 tvg-name="Chaves S06E15" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E15
+http://181.214.221.73:80/series/000014/000014/3829622.mp4
+#EXTINF:-1 tvg-name="Chaves S06E16" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E16
+http://181.214.221.73:80/series/000014/000014/3829623.mp4
+#EXTINF:-1 tvg-name="Chaves S06E17" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E17
+http://181.214.221.73:80/series/000014/000014/3829624.mp4
+#EXTINF:-1 tvg-name="Chaves S06E18" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E18
+http://181.214.221.73:80/series/000014/000014/3829625.mp4
+#EXTINF:-1 tvg-name="Chaves S06E19" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E19
+http://181.214.221.73:80/series/000014/000014/3829626.mp4
+#EXTINF:-1 tvg-name="Chaves S06E20" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E20
+http://181.214.221.73:80/series/000014/000014/3829627.mp4
+#EXTINF:-1 tvg-name="Chaves S06E21" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E21
+http://181.214.221.73:80/series/000014/000014/3829628.mp4
+#EXTINF:-1 tvg-name="Chaves S06E22" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E22
+http://181.214.221.73:80/series/000014/000014/3829629.mp4
+#EXTINF:-1 tvg-name="Chaves S06E23" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E23
+http://181.214.221.73:80/series/000014/000014/3829630.mp4
+#EXTINF:-1 tvg-name="Chaves S06E24" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E24
+http://181.214.221.73:80/series/000014/000014/3829631.mp4
+#EXTINF:-1 tvg-name="Chaves S06E25" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E25
+http://181.214.221.73:80/series/000014/000014/3829632.mp4
+#EXTINF:-1 tvg-name="Chaves S06E26" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E26
+http://181.214.221.73:80/series/000014/000014/3829633.mp4
+#EXTINF:-1 tvg-name="Chaves S06E27" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E27
+http://181.214.221.73:80/series/000014/000014/3829634.mp4
+#EXTINF:-1 tvg-name="Chaves S06E28" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E28
+http://181.214.221.73:80/series/000014/000014/3829635.mp4
+#EXTINF:-1 tvg-name="Chaves S06E29" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E29
+http://181.214.221.73:80/series/000014/000014/3829636.mp4
+#EXTINF:-1 tvg-name="Chaves S06E30" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E30
+http://181.214.221.73:80/series/000014/000014/3829637.mp4
+#EXTINF:-1 tvg-name="Chaves S06E31" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E31
+http://181.214.221.73:80/series/000014/000014/3829638.mp4
+#EXTINF:-1 tvg-name="Chaves S06E32" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E32
+http://181.214.221.73:80/series/000014/000014/3829639.mp4
+#EXTINF:-1 tvg-name="Chaves S06E33" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E33
+http://181.214.221.73:80/series/000014/000014/3829640.mp4
+#EXTINF:-1 tvg-name="Chaves S06E34" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S06E34
+http://181.214.221.73:80/series/000014/000014/3829641.mp4
+#EXTINF:-1 tvg-name="Chaves S07E01" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E01
+http://181.214.221.73:80/series/000014/000014/3829642.mp4
+#EXTINF:-1 tvg-name="Chaves S07E02" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E02
+http://181.214.221.73:80/series/000014/000014/3829643.mp4
+#EXTINF:-1 tvg-name="Chaves S07E03" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E03
+http://181.214.221.73:80/series/000014/000014/3829644.mp4
+#EXTINF:-1 tvg-name="Chaves S07E04" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E04
+http://181.214.221.73:80/series/000014/000014/3829645.mp4
+#EXTINF:-1 tvg-name="Chaves S07E05" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E05
+http://181.214.221.73:80/series/000014/000014/3829646.mp4
+#EXTINF:-1 tvg-name="Chaves S07E06" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E06
+http://181.214.221.73:80/series/000014/000014/3829647.mp4
+#EXTINF:-1 tvg-name="Chaves S07E07" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E07
+http://181.214.221.73:80/series/000014/000014/3829648.mp4
+#EXTINF:-1 tvg-name="Chaves S07E08" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E08
+http://181.214.221.73:80/series/000014/000014/3829649.mp4
+#EXTINF:-1 tvg-name="Chaves S07E09" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E09
+http://181.214.221.73:80/series/000014/000014/3829650.mp4
+#EXTINF:-1 tvg-name="Chaves S07E10" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E10
+http://181.214.221.73:80/series/000014/000014/3829651.mp4
+#EXTINF:-1 tvg-name="Chaves S07E11" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E11
+http://181.214.221.73:80/series/000014/000014/3829652.mp4
+#EXTINF:-1 tvg-name="Chaves S07E12" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E12
+http://181.214.221.73:80/series/000014/000014/3829653.mp4
+#EXTINF:-1 tvg-name="Chaves S07E13" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E13
+http://181.214.221.73:80/series/000014/000014/3829654.mp4
+#EXTINF:-1 tvg-name="Chaves S07E14" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E14
+http://181.214.221.73:80/series/000014/000014/3829655.mp4
+#EXTINF:-1 tvg-name="Chaves S07E15" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E15
+http://181.214.221.73:80/series/000014/000014/3829656.mp4
+#EXTINF:-1 tvg-name="Chaves S07E16" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E16
+http://181.214.221.73:80/series/000014/000014/3829657.mp4
+#EXTINF:-1 tvg-name="Chaves S07E17" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E17
+http://181.214.221.73:80/series/000014/000014/3829658.mp4
+#EXTINF:-1 tvg-name="Chaves S07E18" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E18
+http://181.214.221.73:80/series/000014/000014/3829659.mp4
+#EXTINF:-1 tvg-name="Chaves S07E19" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E19
+http://181.214.221.73:80/series/000014/000014/3829660.mp4
+#EXTINF:-1 tvg-name="Chaves S07E20" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E20
+http://181.214.221.73:80/series/000014/000014/3829661.mp4
+#EXTINF:-1 tvg-name="Chaves S07E21" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E21
+http://181.214.221.73:80/series/000014/000014/3829662.mp4
+#EXTINF:-1 tvg-name="Chaves S07E22" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E22
+http://181.214.221.73:80/series/000014/000014/3829663.mp4
+#EXTINF:-1 tvg-name="Chaves S07E23" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E23
+http://181.214.221.73:80/series/000014/000014/3829664.mp4
+#EXTINF:-1 tvg-name="Chaves S07E24" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E24
+http://181.214.221.73:80/series/000014/000014/3829665.mp4
+#EXTINF:-1 tvg-name="Chaves S07E25" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E25
+http://181.214.221.73:80/series/000014/000014/3829666.mp4
+#EXTINF:-1 tvg-name="Chaves S07E26" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E26
+http://181.214.221.73:80/series/000014/000014/3829667.mp4
+#EXTINF:-1 tvg-name="Chaves S07E27" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E27
+http://181.214.221.73:80/series/000014/000014/3829668.mp4
+#EXTINF:-1 tvg-name="Chaves S07E28" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E28
+http://181.214.221.73:80/series/000014/000014/3829669.mp4
+#EXTINF:-1 tvg-name="Chaves S07E29" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E29
+http://181.214.221.73:80/series/000014/000014/3829670.mp4
+#EXTINF:-1 tvg-name="Chaves S07E30" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E30
+http://181.214.221.73:80/series/000014/000014/3829671.mp4
+#EXTINF:-1 tvg-name="Chaves S07E31" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E31
+http://181.214.221.73:80/series/000014/000014/3829672.mp4
+#EXTINF:-1 tvg-name="Chaves S07E32" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E32
+http://181.214.221.73:80/series/000014/000014/3829673.mp4
+#EXTINF:-1 tvg-name="Chaves S07E33" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E33
+http://181.214.221.73:80/series/000014/000014/3829674.mp4
+#EXTINF:-1 tvg-name="Chaves S07E34" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E34
+http://181.214.221.73:80/series/000014/000014/3829675.mp4
+#EXTINF:-1 tvg-name="Chaves S07E35" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E35
+http://181.214.221.73:80/series/000014/000014/3829676.mp4
+#EXTINF:-1 tvg-name="Chaves S07E36" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E36
+http://181.214.221.73:80/series/000014/000014/3829677.mp4
+#EXTINF:-1 tvg-name="Chaves S07E37" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E37
+http://181.214.221.73:80/series/000014/000014/3829678.mp4
+#EXTINF:-1 tvg-name="Chaves S07E38" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E38
+http://181.214.221.73:80/series/000014/000014/3829679.mp4
+#EXTINF:-1 tvg-name="Chaves S07E39" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E39
+http://181.214.221.73:80/series/000014/000014/3829680.mp4
+#EXTINF:-1 tvg-name="Chaves S07E40" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E40
+http://181.214.221.73:80/series/000014/000014/3829681.mp4
+#EXTINF:-1 tvg-name="Chaves S07E41" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E41
+http://181.214.221.73:80/series/000014/000014/3829682.mp4
+#EXTINF:-1 tvg-name="Chaves S07E42" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E42
+http://181.214.221.73:80/series/000014/000014/3829683.mp4
+#EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
+http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",nome do canal
+
+
+#######RecordNews https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8#######
