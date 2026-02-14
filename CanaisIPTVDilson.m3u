@@ -137,6 +137,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 #EXTINF:-1 group-title="Geral" tvg-id="PlutoTVVidaReal.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:60,Brazzers TV Europe
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/910/index.m3u8
+
+#EXTINF:0,Blowjob Red TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6180/index.m3u8
+
+#EXTINF:0,Brunette Adult TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6183/index.m3u8
+
 #EXTINF:-1 tvg-name="Chaves S01E01" tvg-logo="http://timg.bdta.pro/images/37df6e8918c3a9d6eac1ce17f42b1b03.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E01
 http://181.214.221.73:80/series/000014/000014/3829464.mp4
 #EXTINF:-1 tvg-name="Chaves S01E02" tvg-logo="http://timg.bdta.pro/images/fa23b12829abe328f4a7788524309a9b.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E02
@@ -594,3 +603,4 @@ http://181.214.221.73:80/series/000014/000014/3829684.mp4
 
 
 #######RecordNews https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8#######
+
