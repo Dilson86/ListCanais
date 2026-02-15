@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
+
 #EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
@@ -137,14 +140,331 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 #EXTINF:-1 group-title="Geral" tvg-id="PlutoTVVidaReal.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:60,Brazzers TV Europe
-http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/910/index.m3u8
 
-#EXTINF:0,Blowjob Red TV
-http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6180/index.m3u8
 
-#EXTINF:0,Brunette Adult TV
-http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6183/index.m3u8
+
+######FILMES######
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premonição 6 Laços de Sangue (2025)" tvg-logo="http://kutx00.top:80/images/x3J781PsdMrjenzQKM5eJXqK5Nd_big.jpg" group-title="Filmes: Lancamentos 2025",Premonição 6 Laços de Sangue (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/346626.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Empregada (2025)" tvg-logo="http://kutx00.top:80/images/o8x6faHunxHcgDjVh09hJ0nPZ5o_big.jpg" group-title="Filmes: Drama",A Empregada (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361515.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TRON: Ares (2025)" tvg-logo="http://kutx00.top:80/images/4NO0mmJ7WEU3PcllcogmiQIUecq_big.jpg" group-title="Filmes: Ficcao Cientifica",TRON: Ares (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361514.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Z Zone (2026)" tvg-logo="http://kutx00.top:80/images/nS1u84WTIAnn7KPYg5Nd1xVVQew_big.jpg" group-title="Filmes: Lancamentos 2026",Z Zone (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361513.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Voce Vai Morrer em 6 horas (2026)" tvg-logo="http://kutx00.top:80/images/s7Vze1z7tAs4d4xfhu0OqNkFuDM_big.jpg" group-title="Filmes: Lancamentos 2026",Voce Vai Morrer em 6 horas (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361512.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Meu Jovem Eu (2026)" tvg-logo="http://kutx00.top:80/images/xNOOOaRmv3NvRnVx8L0FK1aIq6N_big.jpg" group-title="Filmes: Lancamentos 2026",Carta ao Meu Jovem Eu (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361511.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Se Esse Amor Desaparecesse Hoje (2026)" tvg-logo="http://kutx00.top:80/images/rZpbBGwqGHkXhIOzhvHdrFqXgDX_big.jpg" group-title="Filmes: Lancamentos 2026",Se Esse Amor Desaparecesse Hoje (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361508.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Springsteen: Deliver Me from Nowhere (2026)" tvg-logo="http://kutx00.top:80/images/ZbKU1buIabrW4b5seDoHY5HkeF_big.jpg" group-title="Filmes: Lancamentos 2026",Springsteen: Deliver Me from Nowhere (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361507.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Palhaçassino (2026)" tvg-logo="http://kutx00.top:80/images/rgYk60Nj1hvffkQwEs0cMnd42ef_big.jpg" group-title="Filmes: Lancamentos 2026",Palhaçassino (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361506.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Trote (2026)" tvg-logo="http://kutx00.top:80/images/whwnPtQrahHEjyTmaxUq7eNefOH_big.jpg" group-title="Filmes: Lancamentos 2026",O Trote (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361505.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Meu Avô Stanislau (2026)" tvg-logo="http://kutx00.top:80/images/t6Y1I2AVkzZ8Nzkltkqi9FfdTzD_big.jpg" group-title="Filmes: Lancamentos 2026",Meu Avô Stanislau (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361503.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Freaky Tales (2026)" tvg-logo="http://kutx00.top:80/images/lo5mfglsGeMYmAkSRXs9DATNJxk_big.jpg" group-title="Filmes: Lancamentos 2026",Freaky Tales (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361502.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bora, Cora (2026)" tvg-logo="http://kutx00.top:80/images/1mgkzclLgz9sDft8Wuf5cW6f7OX_big.jpg" group-title="Filmes: Lancamentos 2026",Bora, Cora (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361498.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dúvida (2008) (L)" tvg-logo="http://kutx00.top:80/images/zrVTtvLBk0yp2wlinURhzPVbkxi_big.jpg" group-title="Filmes : Legendados",Dúvida (2008) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361275.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Vida de Timothy Green (2012)" tvg-logo="http://kutx00.top:80/images/yDXXtI8ocUkQ8O95XLEdPE5qArp_big.jpg" group-title="Filmes: Drama",A Extraordinária Vida de Timothy Green (2012)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361274.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zona De Caca (2026)" tvg-logo="http://kutx00.top:80/images/eFrZLDfyb0fef5IDk9CH4MV2aod_big.jpg" group-title="Filmes: Lancamentos 2026",Zona De Caca (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361273.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Verdade e Traicao (2026)" tvg-logo="http://kutx00.top:80/images/AoV1OxQpKhXxwmvcjUAwiaHWhkU_big.jpg" group-title="Filmes: Lancamentos 2026",Verdade e Traicao (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361272.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia Extraordinário (2026)" tvg-logo="http://kutx00.top:80/images/AuRamBsUf8AqRzHmWMjb2jg5vVZ_big.jpg" group-title="Filmes: Lancamentos 2026",Um Dia Extraordinário (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361271.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nossa Vizinhança (2026)" tvg-logo="http://kutx00.top:80/images/5ivxdAWTJf6YdQDBLmysTgJiqqh_big.jpg" group-title="Filmes: Lancamentos 2026",Nossa Vizinhança (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361270.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="God Complex - O Complexo Industrial da Censura (2026)" tvg-logo="http://kutx00.top:80/images/kuTIIwXc436PTUFVj8F8gTsfsz0_big.jpg" group-title="Filmes: Lancamentos 2026",God Complex - O Complexo Industrial da Censura (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361269.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025)" tvg-logo="http://kutx00.top:80/images/iI7JiXlKQ58bwi6k9wIYEGXMOPR_big.jpg" group-title="Filmes: Lancamentos 2025",Zootopia 2 (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361267.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinfonia De Guerra (2025)" tvg-logo="http://kutx00.top:80/images/aZlsV0BB56sny4FnFYSCzr3is1B_big.jpg" group-title="Filmes: Lancamentos 2025",Sinfonia De Guerra (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361266.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Palavras De Guerra (2025)" tvg-logo="http://kutx00.top:80/images/59JXT8JtyQ3CAWVf3wBa8yCCdIJ_big.jpg" group-title="Filmes: Lancamentos 2025",Palavras De Guerra (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361265.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Natal Sangrento (2025)" tvg-logo="http://kutx00.top:80/images/tGKI0beu1B7eLEkMAMT5nNToKFZ_big.jpg" group-title="Filmes: Lancamentos 2025",Natal Sangrento (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361264.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Entre Nos Uma Dose Extra De Amor (2025)" tvg-logo="http://kutx00.top:80/images/xJHQOfICSHqTimOL0APTjbvF6YX_big.jpg" group-title="Filmes: Lancamentos 2025",Entre Nos Uma Dose Extra De Amor (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361263.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Christy Um Novo Round (2026)" tvg-logo="http://kutx00.top:80/images/2WJEpkeQ78HQlTtSP9Bll1xRFhs_big.jpg" group-title="Filmes: Lancamentos 2026",Christy Um Novo Round (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361262.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025) (L)" tvg-logo="http://kutx00.top:80/images/iI7JiXlKQ58bwi6k9wIYEGXMOPR_big.jpg" group-title="Filmes : Legendados",Zootopia 2 (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361261.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Verdade e Traicao (2026) (L)" tvg-logo="http://kutx00.top:80/images/AoV1OxQpKhXxwmvcjUAwiaHWhkU_big.jpg" group-title="Filmes : Legendados",Verdade e Traicao (2026) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361259.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vencendo Sem Parar (2025) (L)" tvg-logo="http://kutx00.top:80/images/k5DQB2rTUXTnuaBo73tagiU2bqj_big.jpg" group-title="Filmes : Legendados",Vencendo Sem Parar (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361258.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinfonia De Guerra (2025) (L)" tvg-logo="http://kutx00.top:80/images/aZlsV0BB56sny4FnFYSCzr3is1B_big.jpg" group-title="Filmes : Legendados",Sinfonia De Guerra (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361257.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shark Evil (2025) (L)" tvg-logo="http://kutx00.top:80/images/gStRXDh04JEoW7sBptNXc1tFsm8_big.jpg" group-title="Filmes : Legendados",Shark Evil (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361256.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Palavras De Guerra (2025) (L)" tvg-logo="http://kutx00.top:80/images/59JXT8JtyQ3CAWVf3wBa8yCCdIJ_big.jpg" group-title="Filmes : Legendados",Palavras De Guerra (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361255.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Natal Sangrento (2025) (L)" tvg-logo="http://kutx00.top:80/images/f2zUWeu5VKp79O3w9LeS7McWeVW_big.jpg" group-title="Filmes : Legendados",Natal Sangrento (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361254.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jethica (2025) (L)" tvg-logo="http://kutx00.top:80/images/5Q5KZ6JMFbfWftCrrW1C2VQlu5S_big.jpg" group-title="Filmes : Legendados",Jethica (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361253.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fake Beethoven (2021) (L)" tvg-logo="http://kutx00.top:80/images/yc4bNVNfa4wcVqJLbBWZKSCIdXm_big.jpg" group-title="Filmes : Legendados",Fake Beethoven (2021) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361252.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Entre Nos Uma Dose Extra De Amor (2025) (L)" tvg-logo="http://kutx00.top:80/images/xJHQOfICSHqTimOL0APTjbvF6YX_big.jpg" group-title="Filmes : Legendados",Entre Nos Uma Dose Extra De Amor (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361251.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Christy Um Novo Round (2026) (L)" tvg-logo="http://kutx00.top:80/images/2WJEpkeQ78HQlTtSP9Bll1xRFhs_big.jpg" group-title="Filmes : Legendados",Christy Um Novo Round (2026) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361250.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Perigosa (2026) (L)" tvg-logo="http://kutx00.top:80/images/jYpk5Zun4VTWrplO3m9BHANi4S5_big.jpg" group-title="Filmes: Lancamentos 2026",Dupla Perigosa (2026) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361144.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Perigosa (2026)" tvg-logo="http://kutx00.top:80/images/jYpk5Zun4VTWrplO3m9BHANi4S5_big.jpg" group-title="Filmes: Lancamentos 2026",Dupla Perigosa (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361143.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Silvio Santos Vem Aí (2025)" tvg-logo="http://kutx00.top:80/images/17ZQyPCGaAnnaa6zuOgbLwWDGkA_big.jpg" group-title="Filmes: Lancamentos 2025",Silvio Santos Vem Aí (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361104.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Lar Sinistro (2025)" tvg-logo="http://kutx00.top:80/images/40nxLSRwm0sfiTVEPBtWXfCVhd1_big.jpg" group-title="Filmes: Lancamentos 2025",O Lar Sinistro (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361103.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Falsario (2026)" tvg-logo="http://kutx00.top:80/images/kruMkxPyLf8bZIuu53JxgyZ29kj_big.jpg" group-title="Filmes: Lancamentos 2026",O Falsario (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361102.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Cativo (2025)" tvg-logo="http://kutx00.top:80/images/eYwmG2pOVc3HVT0PXZPfXlrvvlw_big.jpg" group-title="Filmes: Lancamentos 2025",O Cativo (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361101.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="David Nasce Um Rei (2026)" tvg-logo="http://kutx00.top:80/images/o2JfhBRMYffDN2zdXplESVRp0e0_big.jpg" group-title="Filmes: Lancamentos 2026",David Nasce Um Rei (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361100.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rango (2005)" tvg-logo="http://kutx00.top:80/images/x6vTdWJwa5Se5LnyB7EZ9B0MHp3_big.jpg" group-title="Filmes: Comedia",A Hora do Rango (2005)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361099.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Solteira Quase Surtando (2020)" tvg-logo="http://kutx00.top:80/images/qSXDbGozN7XJXYx5gM6JyKcaYYG_big.jpg" group-title="Filmes: Comedia",Solteira Quase Surtando (2020)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361098.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Podcast Da Morte (2025)" tvg-logo="http://kutx00.top:80/images/1E88PofY038Kx5s2ZwClNCcRc5_big.jpg" group-title="Filmes: Lancamentos 2025",O Podcast Da Morte (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361097.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="No Interior Do Casulo Amarelo (2025)" tvg-logo="http://kutx00.top:80/images/5ilFiTSoD2RugvdoFHJUAj9sg4F_big.jpg" group-title="Filmes: Lancamentos 2025",No Interior Do Casulo Amarelo (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361096.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Match Do Amor (2025)" tvg-logo="http://kutx00.top:80/images/acWRpucc2NBmOCVrTfeFd4d3C8w_big.jpg" group-title="Filmes: Lancamentos 2025",Match Do Amor (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361095.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Cósmica Kaguya! (2026)" tvg-logo="http://kutx00.top:80/images/9lHbzF8h1do99LlIis8iemMOZSj_big.jpg" group-title="Filmes: Lancamentos 2026",Princesa Cósmica Kaguya! (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361094.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harpia Presenca Maligna (2025)" tvg-logo="http://kutx00.top:80/images/82qGoDfjSqYjwSAfeforpgku0IH_big.jpg" group-title="Filmes: Lancamentos 2025",Harpia Presenca Maligna (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361093.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Americana (2025)" tvg-logo="http://kutx00.top:80/images/83Gis9pOKCvAdaKXCNChey4IZyL_big.jpg" group-title="Filmes: Lancamentos 2025",Americana (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361092.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A ilha do crime (2025)" tvg-logo="http://kutx00.top:80/images/dXAwUfmJVKWS2QKz3sAl8spFtnb_big.jpg" group-title="Filmes: Lancamentos 2025",A ilha do crime (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361091.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Empregada (2025)" tvg-logo="http://kutx00.top:80/images/o8x6faHunxHcgDjVh09hJ0nPZ5o_big.jpg" group-title="Filmes: Drama",A Empregada (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361515.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="TRON: Ares (2025)" tvg-logo="http://kutx00.top:80/images/4NO0mmJ7WEU3PcllcogmiQIUecq_big.jpg" group-title="Filmes: Ficcao Cientifica",TRON: Ares (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361514.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Z Zone (2026)" tvg-logo="http://kutx00.top:80/images/nS1u84WTIAnn7KPYg5Nd1xVVQew_big.jpg" group-title="Filmes: Lancamentos 2026",Z Zone (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361513.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Voce Vai Morrer em 6 horas (2026)" tvg-logo="http://kutx00.top:80/images/s7Vze1z7tAs4d4xfhu0OqNkFuDM_big.jpg" group-title="Filmes: Lancamentos 2026",Voce Vai Morrer em 6 horas (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361512.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Carta ao Meu Jovem Eu (2026)" tvg-logo="http://kutx00.top:80/images/xNOOOaRmv3NvRnVx8L0FK1aIq6N_big.jpg" group-title="Filmes: Lancamentos 2026",Carta ao Meu Jovem Eu (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361511.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Se Esse Amor Desaparecesse Hoje (2026)" tvg-logo="http://kutx00.top:80/images/rZpbBGwqGHkXhIOzhvHdrFqXgDX_big.jpg" group-title="Filmes: Lancamentos 2026",Se Esse Amor Desaparecesse Hoje (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361508.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Springsteen: Deliver Me from Nowhere (2026)" tvg-logo="http://kutx00.top:80/images/ZbKU1buIabrW4b5seDoHY5HkeF_big.jpg" group-title="Filmes: Lancamentos 2026",Springsteen: Deliver Me from Nowhere (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361507.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Palhaçassino (2026)" tvg-logo="http://kutx00.top:80/images/rgYk60Nj1hvffkQwEs0cMnd42ef_big.jpg" group-title="Filmes: Lancamentos 2026",Palhaçassino (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361506.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Trote (2026)" tvg-logo="http://kutx00.top:80/images/whwnPtQrahHEjyTmaxUq7eNefOH_big.jpg" group-title="Filmes: Lancamentos 2026",O Trote (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361505.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Meu Avô Stanislau (2026)" tvg-logo="http://kutx00.top:80/images/t6Y1I2AVkzZ8Nzkltkqi9FfdTzD_big.jpg" group-title="Filmes: Lancamentos 2026",Meu Avô Stanislau (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361503.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Freaky Tales (2026)" tvg-logo="http://kutx00.top:80/images/lo5mfglsGeMYmAkSRXs9DATNJxk_big.jpg" group-title="Filmes: Lancamentos 2026",Freaky Tales (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361502.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Bora, Cora (2026)" tvg-logo="http://kutx00.top:80/images/1mgkzclLgz9sDft8Wuf5cW6f7OX_big.jpg" group-title="Filmes: Lancamentos 2026",Bora, Cora (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361498.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dúvida (2008) (L)" tvg-logo="http://kutx00.top:80/images/zrVTtvLBk0yp2wlinURhzPVbkxi_big.jpg" group-title="Filmes : Legendados",Dúvida (2008) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361275.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Vida de Timothy Green (2012)" tvg-logo="http://kutx00.top:80/images/yDXXtI8ocUkQ8O95XLEdPE5qArp_big.jpg" group-title="Filmes: Drama",A Extraordinária Vida de Timothy Green (2012)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361274.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zona De Caca (2026)" tvg-logo="http://kutx00.top:80/images/eFrZLDfyb0fef5IDk9CH4MV2aod_big.jpg" group-title="Filmes: Lancamentos 2026",Zona De Caca (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361273.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Verdade e Traicao (2026)" tvg-logo="http://kutx00.top:80/images/AoV1OxQpKhXxwmvcjUAwiaHWhkU_big.jpg" group-title="Filmes: Lancamentos 2026",Verdade e Traicao (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361272.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia Extraordinário (2026)" tvg-logo="http://kutx00.top:80/images/AuRamBsUf8AqRzHmWMjb2jg5vVZ_big.jpg" group-title="Filmes: Lancamentos 2026",Um Dia Extraordinário (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361271.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Nossa Vizinhança (2026)" tvg-logo="http://kutx00.top:80/images/5ivxdAWTJf6YdQDBLmysTgJiqqh_big.jpg" group-title="Filmes: Lancamentos 2026",Nossa Vizinhança (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361270.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="God Complex - O Complexo Industrial da Censura (2026)" tvg-logo="http://kutx00.top:80/images/kuTIIwXc436PTUFVj8F8gTsfsz0_big.jpg" group-title="Filmes: Lancamentos 2026",God Complex - O Complexo Industrial da Censura (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361269.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025)" tvg-logo="http://kutx00.top:80/images/iI7JiXlKQ58bwi6k9wIYEGXMOPR_big.jpg" group-title="Filmes: Lancamentos 2025",Zootopia 2 (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361267.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinfonia De Guerra (2025)" tvg-logo="http://kutx00.top:80/images/aZlsV0BB56sny4FnFYSCzr3is1B_big.jpg" group-title="Filmes: Lancamentos 2025",Sinfonia De Guerra (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361266.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Palavras De Guerra (2025)" tvg-logo="http://kutx00.top:80/images/59JXT8JtyQ3CAWVf3wBa8yCCdIJ_big.jpg" group-title="Filmes: Lancamentos 2025",Palavras De Guerra (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361265.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Natal Sangrento (2025)" tvg-logo="http://kutx00.top:80/images/tGKI0beu1B7eLEkMAMT5nNToKFZ_big.jpg" group-title="Filmes: Lancamentos 2025",Natal Sangrento (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361264.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Entre Nos Uma Dose Extra De Amor (2025)" tvg-logo="http://kutx00.top:80/images/xJHQOfICSHqTimOL0APTjbvF6YX_big.jpg" group-title="Filmes: Lancamentos 2025",Entre Nos Uma Dose Extra De Amor (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361263.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Christy Um Novo Round (2026)" tvg-logo="http://kutx00.top:80/images/2WJEpkeQ78HQlTtSP9Bll1xRFhs_big.jpg" group-title="Filmes: Lancamentos 2026",Christy Um Novo Round (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361262.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia 2 (2025) (L)" tvg-logo="http://kutx00.top:80/images/iI7JiXlKQ58bwi6k9wIYEGXMOPR_big.jpg" group-title="Filmes : Legendados",Zootopia 2 (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361261.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Verdade e Traicao (2026) (L)" tvg-logo="http://kutx00.top:80/images/AoV1OxQpKhXxwmvcjUAwiaHWhkU_big.jpg" group-title="Filmes : Legendados",Verdade e Traicao (2026) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361259.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Vencendo Sem Parar (2025) (L)" tvg-logo="http://kutx00.top:80/images/k5DQB2rTUXTnuaBo73tagiU2bqj_big.jpg" group-title="Filmes : Legendados",Vencendo Sem Parar (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361258.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Sinfonia De Guerra (2025) (L)" tvg-logo="http://kutx00.top:80/images/aZlsV0BB56sny4FnFYSCzr3is1B_big.jpg" group-title="Filmes : Legendados",Sinfonia De Guerra (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361257.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Shark Evil (2025) (L)" tvg-logo="http://kutx00.top:80/images/gStRXDh04JEoW7sBptNXc1tFsm8_big.jpg" group-title="Filmes : Legendados",Shark Evil (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361256.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Palavras De Guerra (2025) (L)" tvg-logo="http://kutx00.top:80/images/59JXT8JtyQ3CAWVf3wBa8yCCdIJ_big.jpg" group-title="Filmes : Legendados",Palavras De Guerra (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361255.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Natal Sangrento (2025) (L)" tvg-logo="http://kutx00.top:80/images/f2zUWeu5VKp79O3w9LeS7McWeVW_big.jpg" group-title="Filmes : Legendados",Natal Sangrento (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361254.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jethica (2025) (L)" tvg-logo="http://kutx00.top:80/images/5Q5KZ6JMFbfWftCrrW1C2VQlu5S_big.jpg" group-title="Filmes : Legendados",Jethica (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361253.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Fake Beethoven (2021) (L)" tvg-logo="http://kutx00.top:80/images/yc4bNVNfa4wcVqJLbBWZKSCIdXm_big.jpg" group-title="Filmes : Legendados",Fake Beethoven (2021) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361252.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Entre Nos Uma Dose Extra De Amor (2025) (L)" tvg-logo="http://kutx00.top:80/images/xJHQOfICSHqTimOL0APTjbvF6YX_big.jpg" group-title="Filmes : Legendados",Entre Nos Uma Dose Extra De Amor (2025) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361251.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Christy Um Novo Round (2026) (L)" tvg-logo="http://kutx00.top:80/images/2WJEpkeQ78HQlTtSP9Bll1xRFhs_big.jpg" group-title="Filmes : Legendados",Christy Um Novo Round (2026) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361250.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Perigosa (2026) (L)" tvg-logo="http://kutx00.top:80/images/jYpk5Zun4VTWrplO3m9BHANi4S5_big.jpg" group-title="Filmes: Lancamentos 2026",Dupla Perigosa (2026) (L)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361144.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Dupla Perigosa (2026)" tvg-logo="http://kutx00.top:80/images/jYpk5Zun4VTWrplO3m9BHANi4S5_big.jpg" group-title="Filmes: Lancamentos 2026",Dupla Perigosa (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361143.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Silvio Santos Vem Aí (2025)" tvg-logo="http://kutx00.top:80/images/17ZQyPCGaAnnaa6zuOgbLwWDGkA_big.jpg" group-title="Filmes: Lancamentos 2025",Silvio Santos Vem Aí (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361104.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Lar Sinistro (2025)" tvg-logo="http://kutx00.top:80/images/40nxLSRwm0sfiTVEPBtWXfCVhd1_big.jpg" group-title="Filmes: Lancamentos 2025",O Lar Sinistro (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361103.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Falsario (2026)" tvg-logo="http://kutx00.top:80/images/kruMkxPyLf8bZIuu53JxgyZ29kj_big.jpg" group-title="Filmes: Lancamentos 2026",O Falsario (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361102.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Cativo (2025)" tvg-logo="http://kutx00.top:80/images/eYwmG2pOVc3HVT0PXZPfXlrvvlw_big.jpg" group-title="Filmes: Lancamentos 2025",O Cativo (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361101.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="David Nasce Um Rei (2026)" tvg-logo="http://kutx00.top:80/images/o2JfhBRMYffDN2zdXplESVRp0e0_big.jpg" group-title="Filmes: Lancamentos 2026",David Nasce Um Rei (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361100.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rango (2005)" tvg-logo="http://kutx00.top:80/images/x6vTdWJwa5Se5LnyB7EZ9B0MHp3_big.jpg" group-title="Filmes: Comedia",A Hora do Rango (2005)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361099.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Solteira Quase Surtando (2020)" tvg-logo="http://kutx00.top:80/images/qSXDbGozN7XJXYx5gM6JyKcaYYG_big.jpg" group-title="Filmes: Comedia",Solteira Quase Surtando (2020)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361098.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="O Podcast Da Morte (2025)" tvg-logo="http://kutx00.top:80/images/1E88PofY038Kx5s2ZwClNCcRc5_big.jpg" group-title="Filmes: Lancamentos 2025",O Podcast Da Morte (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361097.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="No Interior Do Casulo Amarelo (2025)" tvg-logo="http://kutx00.top:80/images/5ilFiTSoD2RugvdoFHJUAj9sg4F_big.jpg" group-title="Filmes: Lancamentos 2025",No Interior Do Casulo Amarelo (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361096.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Match Do Amor (2025)" tvg-logo="http://kutx00.top:80/images/acWRpucc2NBmOCVrTfeFd4d3C8w_big.jpg" group-title="Filmes: Lancamentos 2025",Match Do Amor (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361095.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Cósmica Kaguya! (2026)" tvg-logo="http://kutx00.top:80/images/9lHbzF8h1do99LlIis8iemMOZSj_big.jpg" group-title="Filmes: Lancamentos 2026",Princesa Cósmica Kaguya! (2026)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361094.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Harpia Presenca Maligna (2025)" tvg-logo="http://kutx00.top:80/images/82qGoDfjSqYjwSAfeforpgku0IH_big.jpg" group-title="Filmes: Lancamentos 2025",Harpia Presenca Maligna (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361093.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Americana (2025)" tvg-logo="http://kutx00.top:80/images/83Gis9pOKCvAdaKXCNChey4IZyL_big.jpg" group-title="Filmes: Lancamentos 2025",Americana (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361092.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="A ilha do crime (2025)" tvg-logo="http://kutx00.top:80/images/dXAwUfmJVKWS2QKz3sAl8spFtnb_big.jpg" group-title="Filmes: Lancamentos 2025",A ilha do crime (2025)
+http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361091.mp4
+
+
+######SERIES#######
+
+
 
 #EXTINF:-1 tvg-name="Chaves S01E01" tvg-logo="http://timg.bdta.pro/images/37df6e8918c3a9d6eac1ce17f42b1b03.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E01
 http://181.214.221.73:80/series/000014/000014/3829464.mp4
@@ -590,19 +910,6 @@ http://181.214.221.73:80/series/000014/000014/3829683.mp4
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",nome do canal
-
-
-#######RecordNews https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8#######
 
 
 
