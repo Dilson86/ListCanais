@@ -1,4 +1,21 @@
 #EXTM3U
+
+
+
+#EXTINF:60,Dorcel TV HD
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/245/index.m3u8
+#EXTINF:0,DORCEL XXX TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12132/index.m3u8
+#EXTINF:40,Duck TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/1031/index.m3u8
+#EXTINF:140,Dusk
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6198/index.m3u
+
+
+
+
+
+
 #EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
@@ -603,4 +620,5 @@ http://181.214.221.73:80/series/000014/000014/3829684.mp4
 
 
 #######RecordNews https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8#######
+
 
