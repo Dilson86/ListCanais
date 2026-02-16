@@ -6,7 +6,7 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record | Belém
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém SD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162768
 
 #EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
@@ -912,6 +912,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
