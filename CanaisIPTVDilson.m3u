@@ -2,6 +2,16 @@
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
+
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Liberal - Globo PA" tvg-logo="https://i.imgur.com/FBUxkQE.png" group-title="Rede Globo",TV Liberal - Globo PA
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1664.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Liberal  - Globo PA Alternativo" tvg-logo="https://i.imgur.com/FBUxkQE.png" group-title="Rede Globo",TV Liberal  - Globo PA Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2010.ts
+
+
+
+
 #EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
@@ -908,6 +918,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
