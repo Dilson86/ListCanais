@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
-
-
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belem FHD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/162744
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém FHD [Alt]
-http://srv.cldplay.in:80/lelezago/lelezago@2021/147393
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/83506
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD [Alt]
-http://srv.cldplay.in:80/lelezago/lelezago@2021/147394
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
 
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
-
-
-#EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém SD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162768
 
 #EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
@@ -33,11 +21,23 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/re
 #EXTINF:-1 group-title="Geral" tvg-id="TVRecord.br" tvg-name="Tv Record" tvg-logo="https://logos.imperioapps.top/RECORD.png", TV RECORD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
+#EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+
 #EXTINF:-1 group-title="Geral" tvg-id="RedeTVES.br@SD" tvg-name="Rede TV" tvg-logo="https://logos.imperioapps.top/REDE_TV_4K.png", Rede TV! | ES
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 
-#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT Interior (720p)
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png", Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="noticia",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+
+#EXTINF:-1 group-title="Noticias" tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN_4K.png", Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png", Canal Cultura do Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SertaoTV.br@SD"tvg-logo="https://reporterceara.com.br/wp-content/uploads/2017/07/Serta%CC%83o-TV-01-2560x1440-170621.png", Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
@@ -63,12 +63,6 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png", Record News (720p)
-https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="noticia",Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-
 #EXTINF:-1 group-title="Geral" tvg-id="TvBrasil.Br" tvg-name="TV Brasil" tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
@@ -92,12 +86,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:0 group-title="Religioso" tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo" tvg-logo="https://www.novotempo.com/wp-content/uploads/2022/07/cropped-logo.png", TV Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN_4K.png", Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-#EXTINF:-1 group-title="Geral" tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png", Canal Cultura do Pará
-http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF:-1 group-title="Legislativo" tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://logos.imperioapps.top/TV_CAMARA.png",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -924,6 +912,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
