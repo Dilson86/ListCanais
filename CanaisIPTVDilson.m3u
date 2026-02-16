@@ -6,14 +6,26 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém SD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/162768
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Para HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Para HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/289001
+
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT HD [Alt]" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT HD [Alt]
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147677
 
 #EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 
 #EXTINF:-1 group-title="Geral" tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png",SBT | Rio Preto
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém SD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162768
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP HD [Alt]
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147658
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP SD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83613
 
 #EXTINF:-1 group-title="Geral" tvg-id="RedeRecord.br" tvg-name="TV Record" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png",TV Record | Internacional
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
