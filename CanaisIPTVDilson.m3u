@@ -159,7 +159,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1
 #EXTINF:-1 group-title="Geral" tvg-id="PlutoTVVidaReal.us@Brazil" tvg-logo="https://images.seeklogo.com/logo-png/52/2/pluto-tv-logo-png_seeklogo-520780.png", Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil",Comedy Central Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a01ea83b-3ab6-4eae-b18b-a756699e694a
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Brazil",Comedy Central South Park
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d8b45b9f-e7f9-4cf5-99dc-bf1e4804dc78
+#EXTINF:-1 tvg-id="",CSI: Miami
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3ca5a440-6640-441d-8ddf-54279d7d8a45
+#EXTINF:-1 tvg-id="",DAZN Combat
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d6cf79e3-355d-4977-81e8-e5e8440728d4
 
 
 ######FILMES######
@@ -928,6 +935,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
