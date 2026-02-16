@@ -481,6 +481,31 @@ http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361092.mp4
 http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/361091.mp4
 
 
+
+
+
+
+
+
+#EXTINF:146 group-title="+18" tvg-id="" tvg-name="Adult Time" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Adulttime-logo.png", Adult Time
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6166/index.m3u8
+
+#EXTINF:95 group-title="+18" tvg-id="" tvg-name="Alba" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/alba-logo-png-transparent.png",Alba 1
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12106/index.m3u8
+
+#EXTINF:60 group-title="+18" tvg-id="" tvg-name="Brazzers TV Europe" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png",Brazzers TV Europe
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/910/index.m3u8
+
+#EXTINF:0 group-title="+18" tvg-id="" tvg-name="Blowjob Red TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SexTV.svg/1280px-SexTV.svg.png",Blowjob Red TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6180/index.m3u8
+
+#EXTINF:0 group-title="+18" tvg-id="" tvg-name="Brunette Adult TV" tvg-logo="https://images.squarespace-cdn.com/content/55dd22dce4b0b9d28707ceb9/1440851786273-LHH81SY79OI0MMFRXXNR/brunette_web.png",Brunette Adult TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6183/index.m3u8
+
+#EXTINF:71 group-title="+18" tvg-id="" tvg-name="Compilation Adult TV" tvg-logo="https://png.pngtree.com/png-vector/20221216/ourlarge/pngtree-adult-content-grown-contents-stamp-vector-png-image_15551460.png",Compilation Adult TV
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/6187/index.m3u8
+
+
 ######SERIES#######
 
 
@@ -927,6 +952,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
