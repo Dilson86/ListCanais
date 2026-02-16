@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",Globo | TV Liberal Belém
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
 
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
-#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém SD
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record | Belém
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162768
 
 #EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
@@ -15,19 +15,19 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 group-title="Geral" tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png",SBT | Rio Preto
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 group-title="Geral" tvg-id="RedeRecord.br" tvg-name="TV Record" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png",TV Record | Nacional
+#EXTINF:-1 group-title="Geral" tvg-id="RedeRecord.br" tvg-name="TV Record" tvg-logo="https://assistatv.me/images/de17f0f24b49f8364187891f8550ffbb.png",TV Record | Internacional
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 
 #EXTINF:-1 group-title="Geral" tvg-id="TVRecord.br" tvg-name="Tv Record" tvg-logo="https://logos.imperioapps.top/RECORD.png", TV RECORD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-#EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", RBA TV
+#EXTINF:0 group-title="Geral" tvg-id="RBATV.br(m3u4u)" tvg-name="RBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png", Band | RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF:-1 group-title="Geral" tvg-id="RedeTVES.br@SD" tvg-name="Rede TV" tvg-logo="https://logos.imperioapps.top/REDE_TV_4K.png", Rede TV! | ES
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
 
-#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png", Record News (720p)
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="noticia",Record News
@@ -39,28 +39,28 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 group-title="Geral" tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png", Canal Cultura do Pará
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SertaoTV.br@SD"tvg-logo="https://reporterceara.com.br/wp-content/uploads/2017/07/Serta%CC%83o-TV-01-2560x1440-170621.png", Sertão TV (720p)
+#EXTINF:-1 tvg-id="SertaoTV.br@SD"tvg-logo="https://reporterceara.com.br/wp-content/uploads/2017/07/Serta%CC%83o-TV-01-2560x1440-170621.png", Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://logos.imperioapps.top/FRANCA.png",TCM 10 HD (1080p)
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://logos.imperioapps.top/FRANCA.png",TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
-#EXTINF:-1 group-title="Geral" tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/3840px-Times_Brasil_CNBC_logo.svg.png",Times Brasil (1080p)
+#EXTINF:-1 group-title="Geral" tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Times_Brasil_CNBC_logo.svg/3840px-Times_Brasil_CNBC_logo.svg.png",Times Brasil
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
-#EXTINF:-1 tvg-id="TVCamara2.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png",TV Câmara 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCamara2.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 group-title="Geral" tvg-id="TVCancaoNova.br@SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png",TV Cancao Nova (720p)
+#EXTINF:-1 group-title="Geral" tvg-id="TVCancaoNova.br@SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjNf/pt.png",TV Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMAX.br@SD",TV MAX (720p)
+#EXTINF:-1 tvg-id="TVMAX.br@SD",TV MAX
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVUniversal.br@SD",TV Universal (480p)
+#EXTINF:-1 tvg-id="TVUniversal.br@SD",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educação (720p)
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD",Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="Geral" tvg-id="TvBrasil.Br" tvg-name="TV Brasil" tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png", TV Brasil
@@ -72,16 +72,16 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:0 group-title="Religioso" tvg-id="REDE.BOAS.NOVAS.-.NET.MANAUS.br" tvg-name="Boas Novas Manaus" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/39/Rede_Boas_Novas.png/200px-Rede_Boas_Novas.png" url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_BR1.xml.gz?raw=true" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Boas Novas Manaus
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png",Gospel Cartoon (360p)
+#EXTINF:-1 group-title="Infantil" tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" tvg-logo="https://ipgotv.net.br/tv/gcartoon/LOGO_GCARTOON1.png",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/67/17/676717e3-be25-3f1c-52fe-b040da127557/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",Rede Gospel (1080p)
+#EXTINF:-1 group-title="Religioso" tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/67/17/676717e3-be25-3f1c-52fe-b040da127557/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",Rede Gospel
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Religioso" tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://logos.imperioapps.top/APARECIDA.png",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes" tvg-id="GospelMovieTV.br" tvg-name="Gospel Movies Television" tvg-logo="https://image.roku.com/developer_channels/prod/e53053e1dc4f23bfaba28baec96ccd670db794f071f83ffe958fe769791bbd57.png",Gospel Movie TV (360p)
+#EXTINF:-1 group-title="Filmes" tvg-id="GospelMovieTV.br" tvg-name="Gospel Movies Television" tvg-logo="https://image.roku.com/developer_channels/prod/e53053e1dc4f23bfaba28baec96ccd670db794f071f83ffe958fe769791bbd57.png",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:0 group-title="Religioso" tvg-id="TVNovoTempo.br(m3u4u)" tvg-name="TV Novo Tempo" tvg-logo="https://www.novotempo.com/wp-content/uploads/2022/07/cropped-logo.png", TV Novo Tempo
@@ -90,10 +90,10 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Legislativo" tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://logos.imperioapps.top/TV_CAMARA.png",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2 
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Comédia | Brasil
@@ -912,6 +912,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
