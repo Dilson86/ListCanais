@@ -13,6 +13,9 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/289001
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147677
 
 #EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 group-title="Geral" tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png", SBT | Belem
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 
 #EXTINF:-1 group-title="Geral" tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://logos.imperioapps.top/sbt.png",SBT | Rio Preto
@@ -924,6 +927,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
