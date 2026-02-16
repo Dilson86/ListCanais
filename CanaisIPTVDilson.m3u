@@ -4,10 +4,16 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/162674
 
 
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Liberal - Globo PA" tvg-logo="https://i.imgur.com/FBUxkQE.png" group-title="Rede Globo",TV Liberal - Globo PA
-http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1664.ts
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Liberal  - Globo PA Alternativo" tvg-logo="https://i.imgur.com/FBUxkQE.png" group-title="Rede Globo",TV Liberal  - Globo PA Alternativo
-http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2010.ts
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belem FHD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162744
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém FHD [Alt]
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147393
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83506
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD [Alt]
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147394
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
 
 
 
@@ -918,6 +924,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
