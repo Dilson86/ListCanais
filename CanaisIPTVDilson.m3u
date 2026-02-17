@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Acompanhe a Casa 1 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Acompanhe a Casa 1 HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/179435
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Acompanhe a Casa 2 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Acompanhe a Casa 2 HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/179433
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Banheiro Super Cimed HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Banheiro Super Cimed HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/179431
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Cozinha 1 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Cozinha 1 HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/179428
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Cozinha 2 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Cozinha 2 HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/164580
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Mosaico HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Mosaico HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/164574
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Piscina HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Piscina HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/162909
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Quarto Sonho de Eternidade HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Quarto Sonho de Eternidade HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/154679
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Quarto Sonho de Voar HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Quarto Sonho de Voar HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/148000
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Quarto Sonho do Grande Amor HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Quarto Sonho do Grande Amor HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147992
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB - Sala Sonho de Ser Milionário HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Sala Sonho de Ser Milionário HD
+http://srv.cldplay.in:80/lelezago/lelezago@2021/147549
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",Globo | TV Liberal Belém
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
@@ -1323,6 +1361,7 @@ http://181.214.221.73:80/series/000014/000014/3829682.mp4
 http://181.214.221.73:80/series/000014/000014/3829683.mp4
 #EXTINF:-1 tvg-name="Chaves S07E43" tvg-logo="http://timg.bdta.pro/images/f69a3ef983e430cffc9160f8caf16960.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S07E43
 http://181.214.221.73:80/series/000014/000014/3829684.mp4
+
 
 
 
