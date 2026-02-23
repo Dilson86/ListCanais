@@ -1,43 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Acompanhe a Casa 1 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Acompanhe a Casa 1 HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/179435
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Acompanhe a Casa 2 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Acompanhe a Casa 2 HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/179433
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Banheiro Super Cimed HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Banheiro Super Cimed HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/179431
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Cozinha 1 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Cozinha 1 HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/179428
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Cozinha 2 HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Cozinha 2 HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/164580
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Mosaico HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Mosaico HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/164574
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Piscina HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Piscina HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/162909
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Quarto Sonho de Eternidade HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Quarto Sonho de Eternidade HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/154679
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Quarto Sonho de Voar HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Quarto Sonho de Voar HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/148000
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Quarto Sonho do Grande Amor HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Quarto Sonho do Grande Amor HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/147992
-
-#EXTINF:-1 tvg-id="" tvg-name="BBB - Sala Sonho de Ser Milionário HD" tvg-logo="https://raphmx00.com/bbb.png" group-title="Reality: BBB 26",BBB - Sala Sonho de Ser Milionário HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/147549
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",Globo | TV Liberal Belém
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83649
 
@@ -2232,6 +2193,435 @@ http://srv.cldplay.in:80/series/lelezago/lelezago@2021/270734.mp4
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E01 - Capítulo 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E01 - Capítulo 1
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E02 - Capítulo 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E02 - Capítulo 2
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E03 - Capítulo 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E03 - Capítulo 3
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E04 - Capítulo 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E04 - Capítulo 4
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E05 - Capítulo 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E05 - Capítulo 5
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E06 - Capítulo 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E06 - Capítulo 6
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E07 - Capítulo 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E07 - Capítulo 7
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E08 - Capítulo 8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E08 - Capítulo 8
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E09 - Capítulo 9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E09 - Capítulo 9
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E10 - Capítulo 10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E10 - Capítulo 10
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E11 - Capítulo 11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E11 - Capítulo 11
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E12 - Capítulo 12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E12 - Capítulo 12
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E13 - Capítulo 13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E13 - Capítulo 13
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E14 - Capítulo 14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E14 - Capítulo 14
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E15 - Capítulo 15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E15 - Capítulo 15
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E16 - Capítulo 16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E16 - Capítulo 16
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E17 - Capítulo 17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E17 - Capítulo 17
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E18 - Capítulo 18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E18 - Capítulo 18
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E19 - Capítulo 19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E19 - Capítulo 19
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E20 - Capítulo 20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E20 - Capítulo 20
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E21 - Capítulo 21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E21 - Capítulo 21
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E22 - Capítulo 22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E22 - Capítulo 22
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E23 - Capítulo 23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E23 - Capítulo 23
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E24 - Capítulo 24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E24 - Capítulo 24
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E25 - Capítulo 25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E25 - Capítulo 25
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E26 - Capítulo 26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E26 - Capítulo 26
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E27 - Capítulo 27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E27 - Capítulo 27
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E28 - Capítulo 28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E28 - Capítulo 28
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E29 - Capítulo 29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E29 - Capítulo 29
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E30 - Capítulo 30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E30 - Capítulo 30
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E31 - Capítulo 31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E31 - Capítulo 31
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E32 - Capítulo 32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E32 - Capítulo 32
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E33 - Capítulo 33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E33 - Capítulo 33
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E34 - Capítulo 34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E34 - Capítulo 34
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E35 - Capítulo 35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E35 - Capítulo 35
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E36 - Capítulo 36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E36 - Capítulo 36
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E37 - Capítulo 37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E37 - Capítulo 37
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E38 - Capítulo 38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E38 - Capítulo 38
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E39 - Capítulo 39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E39 - Capítulo 39
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E40 - Capítulo 40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E40 - Capítulo 40
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E41 - Capítulo 41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E41 - Capítulo 41
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E42 - Capítulo 42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E42 - Capítulo 42
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E43 - Capítulo 43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E43 - Capítulo 43
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E44 - Capítulo 44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E44 - Capítulo 44
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E45 - Capítulo 45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E45 - Capítulo 45
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E46 - Capítulo 46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E46 - Capítulo 46
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E47 - Capítulo 47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E47 - Capítulo 47
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E48 - Capítulo 48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E48 - Capítulo 48
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E49 - Capítulo 49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E49 - Capítulo 49
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E50 - Capítulo 50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E50 - Capítulo 50
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E51 - Capítulo 51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E51 - Capítulo 51
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E52 - Capítulo 52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E52 - Capítulo 52
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E53 - Capítulo 53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E53 - Capítulo 53
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E54 - Capítulo 54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E54 - Capítulo 54
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E55 - Capítulo 55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E55 - Capítulo 55
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E56 - Capítulo 56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E56 - Capítulo 56
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E57 - Capítulo 57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E57 - Capítulo 57
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E58 - Capítulo 58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E58 - Capítulo 58
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E59 - Capítulo 59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E59 - Capítulo 59
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E60 - Capítulo 60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E60 - Capítulo 60
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E61 - Capítulo 61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E61 - Capítulo 61
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E62 - Capítulo 62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E62 - Capítulo 62
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E63 - Capítulo 63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E63 - Capítulo 63
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E64 - Capítulo 64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E64 - Capítulo 64
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E65 - Capítulo 65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E65 - Capítulo 65
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E66 - Capítulo 66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E66 - Capítulo 66
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E67 - Capítulo 67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E67 - Capítulo 67
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E68 - Capítulo 68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E68 - Capítulo 68
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E69 - Capítulo 69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E69 - Capítulo 69
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E70 - Capítulo 70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E70 - Capítulo 70
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E71 - Capítulo 71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E71 - Capítulo 71
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E72 - Capítulo 72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E72 - Capítulo 72
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E73 - Capítulo 73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E73 - Capítulo 73
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E74 - Capítulo 74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E74 - Capítulo 74
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E75 - Capítulo 75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E75 - Capítulo 75
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E76 - Capítulo 76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E76 - Capítulo 76
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E77 - Capítulo 77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E77 - Capítulo 77
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E78 - Capítulo 78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E78 - Capítulo 78
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E79 - Capítulo 79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E79 - Capítulo 79
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E80 - Capítulo 80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E80 - Capítulo 80
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E81 - Capítulo 81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E81 - Capítulo 81
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/136999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E82 - Capítulo 82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E82 - Capítulo 82
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E83 - Capítulo 83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E83 - Capítulo 83
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E84 - Capítulo 84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E84 - Capítulo 84
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E85 - Capítulo 85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E85 - Capítulo 85
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E86 - Capítulo 86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E86 - Capítulo 86
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E87 - Capítulo 87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E87 - Capítulo 87
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E88 - Capítulo 88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E88 - Capítulo 88
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E89 - Capítulo 89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E89 - Capítulo 89
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E90 - Capítulo 90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E90 - Capítulo 90
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E91 - Capítulo 91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E91 - Capítulo 91
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E92 - Capítulo 92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E92 - Capítulo 92
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E93 - Capítulo 93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E93 - Capítulo 93
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E94 - Capítulo 94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E94 - Capítulo 94
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E95 - Capítulo 95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E95 - Capítulo 95
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E96 - Capítulo 96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E96 - Capítulo 96
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E97 - Capítulo 97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E97 - Capítulo 97
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E98 - Capítulo 98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E98 - Capítulo 98
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E99 - Capítulo 99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E99 - Capítulo 99
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E100 - Capítulo 100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E100 - Capítulo 100
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E101 - Capítulo 101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E101 - Capítulo 101
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E102 - Capítulo 102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E102 - Capítulo 102
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E103 - Capítulo 103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E103 - Capítulo 103
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E104 - Capítulo 104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E104 - Capítulo 104
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E105 - Capítulo 105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E105 - Capítulo 105
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E106 - Capítulo 106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E106 - Capítulo 106
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E107 - Capítulo 107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E107 - Capítulo 107
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E108 - Capítulo 108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E108 - Capítulo 108
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E109 - Capítulo 109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E109 - Capítulo 109
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E110 - Capítulo 110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E110 - Capítulo 110
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E111 - Capítulo 111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E111 - Capítulo 111
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E112 - Capítulo 112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E112 - Capítulo 112
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E113 - Capítulo 113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E113 - Capítulo 113
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E114 - Capítulo 114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E114 - Capítulo 114
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E115 - Capítulo 115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E115 - Capítulo 115
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E116 - Capítulo 116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E116 - Capítulo 116
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E117 - Capítulo 117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E117 - Capítulo 117
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E118 - Capítulo 118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E118 - Capítulo 118
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E119 - Capítulo 119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E119 - Capítulo 119
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E120 - Capítulo 120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E120 - Capítulo 120
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E121 - Capítulo 121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E121 - Capítulo 121
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E122 - Capítulo 122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E122 - Capítulo 122
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E123 - Capítulo 123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E123 - Capítulo 123
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E124 - Capítulo 124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E124 - Capítulo 124
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E125 - Capítulo 125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E125 - Capítulo 125
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E126 - Capítulo 126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E126 - Capítulo 126
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E127 - Capítulo 127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E127 - Capítulo 127
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E128 - Capítulo 128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E128 - Capítulo 128
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E129 - Capítulo 129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E129 - Capítulo 129
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E130 - Capítulo 130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E130 - Capítulo 130
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E131 - Capítulo 131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E131 - Capítulo 131
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E132 - Capítulo 132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E132 - Capítulo 132
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E133 - Capítulo 133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E133 - Capítulo 133
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E134 - Capítulo 134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E134 - Capítulo 134
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E135 - Capítulo 135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E135 - Capítulo 135
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E136 - Capítulo 136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E136 - Capítulo 136
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E137 - Capítulo 137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E137 - Capítulo 137
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E138 - Capítulo 138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E138 - Capítulo 138
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E139 - Capítulo 139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E139 - Capítulo 139
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E140 - Capítulo 140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E140 - Capítulo 140
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E141 - Capítulo 141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E141 - Capítulo 141
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E142 - Capítulo 142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E142 - Capítulo 142
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E143 - Capítulo 143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E143 - Capítulo 143
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E144 - Capítulo 144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E144 - Capítulo 144
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E145 - Capítulo 145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E145 - Capítulo 145
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E146 - Capítulo 146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E146 - Capítulo 146
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E147 - Capítulo 147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E147 - Capítulo 147
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E148 - Capítulo 148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E148 - Capítulo 148
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E149 - Capítulo 149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E149 - Capítulo 149
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E150 - Capítulo 150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E150 - Capítulo 150
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E151 - Capítulo 151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E151 - Capítulo 151
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E152 - Capítulo 152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E152 - Capítulo 152
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E153 - Capítulo 153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E153 - Capítulo 153
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E154 - Capítulo 154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E154 - Capítulo 154
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E155 - Capítulo 155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E155 - Capítulo 155
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E156 - Capítulo 156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E156 - Capítulo 156
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E157 - Capítulo 157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E157 - Capítulo 157
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E158 - Capítulo 158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E158 - Capítulo 158
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E159 - Capítulo 159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E159 - Capítulo 159
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E160 - Capítulo 160" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E160 - Capítulo 160
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E161 - Capítulo 161" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E161 - Capítulo 161
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E162 - Capítulo 162" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E162 - Capítulo 162
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E163 - Capítulo 163" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E163 - Capítulo 163
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E164 - Capítulo 164" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E164 - Capítulo 164
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E165 - Capítulo 165" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E165 - Capítulo 165
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E166 - Capítulo 166" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E166 - Capítulo 166
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E167 - Capítulo 167" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E167 - Capítulo 167
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E168 - Capítulo 168" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E168 - Capítulo 168
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E169 - Capítulo 169" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E169 - Capítulo 169
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E170 - Capítulo 170" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E170 - Capítulo 170
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E171 - Capítulo 171" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E171 - Capítulo 171
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E172 - Capítulo 172" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E172 - Capítulo 172
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E173 - Capítulo 173" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E173 - Capítulo 173
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E174 - Capítulo 174" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E174 - Capítulo 174
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E175 - Capítulo 175" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E175 - Capítulo 175
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E176 - Capítulo 176" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E176 - Capítulo 176
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E177 - Capítulo 177" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E177 - Capítulo 177
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E178 - Capítulo 178" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E178 - Capítulo 178
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E179 - Capítulo 179" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E179 - Capítulo 179
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E180 - Episódio 180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E180 - Episódio 180
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E181 - Episódio 181" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E181 - Episódio 181
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E182 - Episódio 182" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E182 - Episódio 182
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E183 - Episódio 183" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E183 - Episódio 183
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E184 - Episódio 184" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E184 - Episódio 184
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E185 - Episódio 185" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E185 - Episódio 185
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E186 - Episódio 186" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E186 - Episódio 186
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E187 - Episódio 187" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E187 - Episódio 187
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E188 - Episódio 188" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E188 - Episódio 188
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E189 - Episódio 189" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E189 - Episódio 189
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E190 - Episódio 190" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E190 - Episódio 190
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E191 - Episódio 191" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E191 - Episódio 191
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E192 - Episódio 192" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E192 - Episódio 192
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E193 - Episódio 193" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E193 - Episódio 193
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E194 - Episódio 194" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E194 - Episódio 194
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E195 - Episódio 195" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E195 - Episódio 195
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E196 - Episódio 196" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E196 - Episódio 196
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E197 - Episódio 197" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E197 - Episódio 197
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E198 - Episódio 198" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E198 - Episódio 198
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E199 - Episódio 199" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E199 - Episódio 199
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E200 - Episódio 200" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E200 - Episódio 200
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E201 - Episódio 201" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E201 - Episódio 201
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E202 - Episódio 202" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E202 - Episódio 202
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E203 - Episódio 203" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E203 - Episódio 203
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E204 - Episódio 204" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E204 - Episódio 204
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E205 - Episódio 205" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E205 - Episódio 205
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E206 - Episódio 206" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E206 - Episódio 206
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E207 - Episódio 207" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E207 - Episódio 207
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E208 - Episódio 208" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E208 - Episódio 208
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E209 - Episódio 209" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E209 - Episódio 209
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 Roque Santeiro - S01E210 - Final Alternativo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="SÉRIES | Telenovela",Roque Santeiro S01 Roque Santeiro - S01E210 - Final Alternativo
+http://srv.cldplay.in:80/series/lelezago/lelezago@2021/137128.mp4
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Chaves S01E01" tvg-logo="http://timg.bdta.pro/images/37df6e8918c3a9d6eac1ce17f42b1b03.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E01
 http://181.214.221.73:80/series/000014/000014/3829464.mp4
 #EXTINF:-1 tvg-name="Chaves S01E02" tvg-logo="http://timg.bdta.pro/images/fa23b12829abe328f4a7788524309a9b.jpg" group-title="♣️Séries | Outras Produtoras",Chaves S01E02
@@ -3073,6 +3463,7 @@ http://srv.cldplay.in:80/series/lelezago/lelezago@2021/302209.mp4
 http://srv.cldplay.in:80/series/lelezago/lelezago@2021/302210.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Indomada S01 A Indomada - S01E203 - Episódio 203" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdvXkBjB8ykF5uWYLmClUsWPoGa.jpg" group-title="SÉRIES | Telenovela",A Indomada S01 A Indomada - S01E203 - Episódio 203
 http://srv.cldplay.in:80/series/lelezago/lelezago@2021/302211.mp4
+
 
 
 
