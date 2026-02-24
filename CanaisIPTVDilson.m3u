@@ -550,26 +550,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 
 
-######FILMES######
-
-
-#EXTINF:-1 tvg-id="" tvg-name="XxX: Vermelho, A Verdadeira Cor Mais Quente (Cena 4)" tvg-logo="" group-title="XXX - Adultos",XxX: Vermelho, A Verdadeira Cor Mais Quente (Cena 4)
-http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/24379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XxX: Vermelho, A Verdadeira Cor Mais Quente (Cena 3)" tvg-logo="" group-title="XXX - Adultos",XxX: Vermelho, A Verdadeira Cor Mais Quente (Cena 3)
-http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/24378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="XxX: Vermelho, A Verdadeira Cor Mais Quente (Cena 2)" tvg-logo="" group-title="XXX - Adultos",XxX: Vermelho, A Verdadeira Cor Mais Quente (Cena 2)
-http://srv.cldplay.in:80/movie/lelezago/lelezago@2021/24377.mp4
-
-
-
-
-
-
-
-
-
-
-
+#######FILMES#######
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Premonição 6 Laços de Sangue (2025)" tvg-logo="http://kutx00.top:80/images/x3J781PsdMrjenzQKM5eJXqK5Nd_big.jpg" group-title="Filmes: Lancamentos 2025",Premonição 6 Laços de Sangue (2025)
@@ -3489,6 +3470,7 @@ http://srv.cldplay.in:80/series/lelezago/lelezago@2021/302209.mp4
 http://srv.cldplay.in:80/series/lelezago/lelezago@2021/302210.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Indomada S01 A Indomada - S01E203 - Episódio 203" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdvXkBjB8ykF5uWYLmClUsWPoGa.jpg" group-title="SÉRIES | Telenovela",A Indomada S01 A Indomada - S01E203 - Episódio 203
 http://srv.cldplay.in:80/series/lelezago/lelezago@2021/302211.mp4
+
 
 
 
